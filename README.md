@@ -1,4 +1,4 @@
-# 👨‍💻 Asmit Verma – Tech Enthusiast, Developer & DSA Lover 🚀
+# 👨‍🗋️ Asmit Verma – Tech Enthusiast, Developer & DSA Lover 🚀
 
 ![Banner](https://raw.githubusercontent.com/asmit557/asmit557/main/assets/banner.gif)
 
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-* 🎓 Final year B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**.
+* 🎓 Final year B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**, majoring in Chemical Engineering.
 * 💻 Passionate **Full-Stack Developer** with hands-on experience in building real-world projects.
 * 🧩 Solved **550+ problems** on **LeetCode** with a **1600+ rating**, earned **6 LeetCode badges**.
 * 🌱 Currently learning advanced backend architecture and WebSockets.
@@ -55,18 +55,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit557&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/asmit557/asmit557/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📌 Coding Profiles
 
-* 💻 [LeetCode – @asmit557](https://leetcode.com/Asmit009/) — `550+ problems solved` | `1600+ rating` | `6 badges`
+* 💻 [LeetCode – @asmit557](https://leetcode.com/asmit557/) — `550+ problems solved` | `1600+ rating` | `6 badges`
 * 🔍 [GitHub – @asmit557](https://github.com/asmit557)
+* 👨‍🎓 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/asmit557)
+* 🧮 [HackerRank](https://www.hackerrank.com/asmit557)
 
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asmit557-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/asmitverma01/)
+
 ---
 
 ## 🏆 Highlights & Achievements

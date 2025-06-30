@@ -54,11 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit557&layout=compact&theme=tokyonight" width="40%" />
 </p>
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/asmit557/asmit557/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📌 Coding Profiles

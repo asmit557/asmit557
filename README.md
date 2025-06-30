@@ -5,14 +5,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=435&lines=Hey%2C+I'm+Asmit+Verma!;B.Tech+Chemical+Engineering+@+MNNIT;Full-Stack+Developer+%7C+Tech+Fanatic+%7C+DSA+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=435&lines=Hey%2C+I'm+Asmit+Verma!;B.Tech+@+MNNIT;Full-Stack+Developer+%7C+Tech+Fanatic+%7C+DSA+Enthusiast"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Final year B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**, majoring in Chemical Engineering.
+* 🎓 Final year B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**.
 * 💻 Passionate **Full-Stack Developer** with hands-on experience in building real-world projects.
 * 🧩 Solved **550+ problems** on **LeetCode** with a **1600+ rating**, earned **6 LeetCode badges**.
 * 🌱 Currently learning advanced backend architecture and WebSockets.
@@ -63,10 +63,8 @@
 
 ## 📌 Coding Profiles
 
-* 💻 [LeetCode – @asmit557](https://leetcode.com/asmit557/) — `550+ problems solved` | `1600+ rating` | `6 badges`
+* 💻 [LeetCode – @asmit557](https://leetcode.com/Asmit009/) — `550+ problems solved` | `1600+ rating` | `6 badges`
 * 🔍 [GitHub – @asmit557](https://github.com/asmit557)
-* 👨‍🎓 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/asmit557)
-* 🧮 [HackerRank](https://www.hackerrank.com/asmit557)
 
 ---
 

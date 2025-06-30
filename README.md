@@ -59,19 +59,14 @@
 
 ## 📌 Coding Profiles
 
-* 💻 [LeetCode – @asmit557](https://leetcode.com/asmit557/) — `550+ problems solved` | `1600+ rating` | `6 badges`
+* 💻 [LeetCode – @asmit557](https://leetcode.com/Asmit009/) — `550+ problems solved` | `1600+ rating` | `6 badges`
 * 🔍 [GitHub – @asmit557](https://github.com/asmit557)
-* 👨‍🎓 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/asmit557)
-* 🧮 [HackerRank](https://www.hackerrank.com/asmit557)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asmit.vercel.app-orange?style=for-the-badge\&logo=vercel)](https://asmit.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asmit557-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/asmit557)
-[![Twitter](https://img.shields.io/badge/Twitter-asmit557-1DA1F2?style=for-the-badge\&logo=twitter)](https://twitter.com/asmit557)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asmit557-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/asmitverma01/)
 ---
 
 ## 🏆 Highlights & Achievements
